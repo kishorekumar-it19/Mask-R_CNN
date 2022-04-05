@@ -2,6 +2,8 @@
 
 Datasets and all files are given in the drive link : https://drive.google.com/drive/folders/1KMloZrLpIyZgqjWfm1IvtgPyKSEslxPV?usp=sharing
 
+Step to create and annotate dataset : https://docs.google.com/document/d/1ocxclxz6I-i1bVvqtJH37mGrqa_Dv1dzMsFOJF90YcU/edit?usp=sharing
+
 ### An Algorithm for Vechicles Identification
 
 In notebook we will be working with the vechicles[dataset](/content/drive/MyDrive/Codebugged. AI) created by [Kishore Kumar M] with a help of google images.
